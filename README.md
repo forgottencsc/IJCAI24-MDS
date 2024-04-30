@@ -5,6 +5,8 @@ Experimental results are listed in `results.xlsx`.
 
 Source codes are placed inside `src`.
 
+**Update:** Added the size of the search tree to the `Result` sheet.
+
 ### Compile and Run
 
 Before compilation, you need to install the HiGHS library from [here](https://highs.dev/).
